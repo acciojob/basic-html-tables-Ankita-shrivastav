@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 table{
-	style="width:100%";
+	width:100px";
 	border:1px solid black;
 	border-collapse:collapse;
 }
